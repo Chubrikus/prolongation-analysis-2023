@@ -47,13 +47,23 @@
 
 ```
 project_root/
-├── data/                  # Папка для исходных данных (prolongations.csv, financial_data.csv)
-├── results/               # Результаты полученные в ходе анализа
-├── requirements.txt       # Список используемых библиотек
-├── README.md              # Описание проекта
-├── .gitignore             # Исключения для git
-├──Prolongation_Coefficient_Analysis_2023.ipynb         # Блокнот Jupiter Notebook с пояснениями логики расчетов 
-├──Отчет о пролонгациях сотрудников за 2023 год.xlsx          # Аналитический отчет для руководителя отдела 
+├── data/
+├── results/
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── Prolongation_Coefficient_Analysis_2023.ipynb
+├── Отчет о пролонгациях сотрудников за 2023 год.xlsx
+```
+
+**Описание содержимого:**
+- `data/` — папка для исходных данных (prolongations.csv, financial_data.csv)
+- `results/` — результаты, полученные в ходе анализа
+- `requirements.txt` — список используемых библиотек
+- `README.md` — описание проекта
+- `.gitignore` — исключения для git
+- `Prolongation_Coefficient_Analysis_2023.ipynb` — блокнот Jupyter Notebook с пояснениями логики расчетов
+- `Отчет о пролонгациях сотрудников за 2023 год.xlsx` — аналитический отчет для руководителя отдела
 
 ## Окружение
 
