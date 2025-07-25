@@ -1,0 +1,8 @@
+analysis.ipynb
+analysis1.ipynb
+text.txt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.env 
